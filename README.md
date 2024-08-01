@@ -1,2 +1,2 @@
-# zhibiao
-用来储存分享tradingview自创的指标，仅限指标不包括策略
+# 抄底摸顶指标
+目前有效指标6个：BASS、CCI、MOM、ROC、RSI、TD等
